@@ -1,4 +1,4 @@
-# Olá! Me chamo Eduarda!
+# Olá! Seja bem-vindo ao meu perfil!
 
 * 🖥️  Estudante de Informática para Internet
 * 📓  Aluna do Instituto Federal-Campus Guanambi
