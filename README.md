@@ -1,7 +1,7 @@
 # Olá! Me chamo Eduarda!
 
-* 🖋️  Estudante de Informática para Internet
-* 🖋️  Aluna do Instituto Federal-Campus Guanambi
+* 🖥️  Estudante de Informática para Internet
+* 📓  Aluna do Instituto Federal-Campus Guanambi
 * 🖋️  17 anos
 
 <div>
