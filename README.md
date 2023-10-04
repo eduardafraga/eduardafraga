@@ -6,5 +6,4 @@
 
 <div>
 <a href="https://beacons.ai/eduardafraga"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardafraga&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt"/>
-<a href="https://beacons.ai/eduardafraga"><img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardafraga&repo=github-readme-stats&cache_seconds=86400&theme=cobalt"/>
 </div> 
