@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aluno</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header>
+        <img src="img02.jpeg" alt="ppp">
+        <nav>
+
+            <a href="index.html">Home</a>
+            <a href="aluno.html">Aluno</a>
+            <a href="professor.html">Professor</a>
+            <a href="lista-aluno.html">Lista Aluno</a>
+            <a href="lista-professor.html">Lista professor</a>
+            <a href="disciplina.html">LIsta de Disciplinas</a>
+
+        </nav>
+        <img src="img02.jpeg" alt="">
+    </header>
+    <article class="main">
+        <section> 
+            <h3 id="h3">cadastro de aluno</h3>
+
+            <form action="testealuno.php" method="get">
+
+                <label for="nome">Nome</label>
+                <input type="text" class="formes" name="nome" id="nome" placeholder="Preencha">
+                <label for="endereço">Edereço</label>
+                <input type="text" class="formes" name="endereco" id="end" placeholder="Preencha">
+                <label for="idade">idade</label>
+                <input type="number" class="formes" name="idade" id="idade" placeholder="Preencha">
+                <label for="senha">Senha da conta</label>
+                <input type="password" class="formes"  name="senha" id="senha" placeholder="Preencha">
+                <label for="e-mail">E-mail</label>
+                <input type="email" class="formes"  name="e-mail" id="e-mail" placeholder="Preencha">
+
+                <br><br> <br> <input type="submit" value="salvar">
+            </form>
+        </section>
+    </article>
+    <footer id="rode">rodapé</footer>
+
+</body>
+
+</html>

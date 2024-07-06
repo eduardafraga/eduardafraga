@@ -1,0 +1,43 @@
+* {
+    background-color: #b48dbb;
+}
+
+
+section > h1 {
+    background-color: #e1c4ff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header > img {
+    height: 60px;
+    width: 90px;
+}
+
+header > nav {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: #713f7a;
+    font-size: 20px;
+    text-align: center;
+    text-emphasis-color: black;
+}
+
+header nav > a:hover {
+    color: black;
+}
+
+nav > a {
+    justify-content: space-between;
+}
